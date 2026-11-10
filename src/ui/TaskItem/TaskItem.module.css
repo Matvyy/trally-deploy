@@ -1,0 +1,42 @@
+.task{
+  border: 1px solid yellow;
+  border-radius: 10px;
+  padding: 8px;
+  width: 500px;
+}
+
+.task.selected{
+  border-color: blue
+}
+
+.bg{
+  background-color: blue;
+}
+
+.bg.p0{
+  background-color: #ffffff;
+}
+
+.bg.p1{
+  background-color: #ffd7b5;
+}
+.bg.p2{
+  background-color: #ffb38a;
+}
+.bg.p3{
+  background-color: #ff9248;
+}
+.bg.p4{
+  background-color: #ff6700;
+}
+
+
+
+.title{
+  text-decoration: none;
+
+}
+.title.isDone{
+  text-decoration: line-through;
+
+}

@@ -1,0 +1,9 @@
+.task{
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.task h3{
+    color: green;
+}
